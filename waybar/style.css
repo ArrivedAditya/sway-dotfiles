@@ -36,8 +36,8 @@ window#waybar.hidden {
 #battery {
     padding: 0 12px;
     margin: 4px 4px;
-    background-color: #24283b;
-    border-radius: 8px;
+    /* background-color: #24283b; */
+    /* border-radius: 8px; */
 }
 
 /* --- Left Modules --- */
@@ -81,8 +81,8 @@ window#waybar.hidden {
 #clock {
     color: #70a5eb;
     font-weight: bold;
-    background-color: #1f2335;
-    border: 1px solid rgba(112, 165, 235, 0.2);
+    /* background-color: #1f2335; */
+    /* border: 1px solid rgba(112, 165, 235, 0.2); */
 }
 
 /* --- Right Modules --- */
@@ -114,7 +114,7 @@ window#waybar.hidden {
 
 #wireplumber.muted {
     color: #565f89;
-    background-color: #414868;
+    /* background-color: #414868; */
 }
 
 /* Target both bat0 and bat1 sharing the base class */
